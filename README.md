@@ -1,1 +1,1 @@
-# ejemplo-base
+# ejemplo-base de repositorio
